@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: B2B Tech
+      tag: saas
+    - name: General Tech
+      tag: GT
+    - name: Blockchain/Web3
+      tag: web3
 
 design:
   columns: '1'
